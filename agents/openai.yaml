@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vincy 科研写作与排图风格"
+  short_description: "学习参考论文的证据组织、摘要引言与图片排版，持续积累 Vincy 的个人科研风格"
+  default_prompt: "使用 $vincy-research-style，根据我的研究证据规划论文主线与主图，或把新参考论文纳入个人风格库。"
